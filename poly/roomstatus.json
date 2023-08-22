@@ -1,0 +1,23 @@
+[
+    {
+        "Room": "Apollo",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692722096.7530835
+    },
+    {
+        "Room": "The Met",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692722096.7530835
+    },
+    {
+        "Room": "MC 10.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692722096.7530835
+    }
+]
