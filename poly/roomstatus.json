@@ -4,27 +4,27 @@
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692725650.40313
+        "timestamp": 1692726090.6790185
     },
     {
         "Room": "The Met",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692725650.40313
+        "timestamp": 1692726090.6790185
     },
     {
         "Room": "MC 10.52",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692725650.40313
+        "timestamp": 1692726090.6790185
     },
     {
         "Room": "Grammercy",
         "Mic": true,
-        "Camera": false,
+        "Camera": true,
         "Controller": true,
-        "timestamp": 1692725650.40313
+        "timestamp": 1692726090.6790185
     }
 ]
