@@ -4,223 +4,258 @@
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730011.205614
+        "timestamp": 1692730783.0113664
     },
     {
         "Room": "The Met",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730012.2750156
+        "timestamp": 1692730784.091381
     },
     {
         "Room": "MC 10.52",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730013.3700936
+        "timestamp": 1692730785.1879263
     },
     {
         "Room": "Columbus Circle",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730014.4494965
+        "timestamp": 1692730786.240913
     },
     {
         "Room": "Moma",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730015.5327382
+        "timestamp": 1692730787.307851
     },
     {
         "Room": "MC 9.52",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "timestamp": 1692730036.5772507
+        "timestamp": 1692730808.3409362
     },
     {
         "Room": "Bryant Park",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730037.639046
+        "timestamp": 1692730809.4350019
     },
     {
         "Room": "Rock Center",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730038.7112792
+        "timestamp": 1692730810.5168211
     },
     {
         "Room": "MC 8.52",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730039.7841663
+        "timestamp": 1692730811.6014557
     },
     {
         "Room": "Union Square",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730040.8530946
+        "timestamp": 1692730812.699566
     },
     {
         "Room": "High Line",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730041.9223866
+        "timestamp": 1692730813.80451
     },
     {
         "Room": "MC 7.85",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730043.0528996
+        "timestamp": 1692730814.921849
     },
     {
         "Room": "Grammercy",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730044.1104624
+        "timestamp": 1692730816.012642
     },
     {
         "Room": "Wall St",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730045.2213707
+        "timestamp": 1692730817.1265953
     },
     {
         "Room": "Libery",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730046.3444498
+        "timestamp": 1692730818.2188678
     },
     {
         "Room": "MC 6.52",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730047.4629343
+        "timestamp": 1692730819.296997
     },
     {
         "Room": "MP 8322",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730048.6660345
+        "timestamp": 1692730820.3821056
     },
     {
         "Room": "MP 8309",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730049.896748
+        "timestamp": 1692730821.5369687
     },
     {
         "Room": "MP 7366",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730051.0835881
+        "timestamp": 1692730822.7221048
     },
     {
         "Room": "MP 7310",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730052.287761
+        "timestamp": 1692730823.876262
     },
     {
         "Room": "MP 7202",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730053.4971457
+        "timestamp": 1692730825.0448725
     },
     {
         "Room": "MP 7201",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730054.677594
+        "timestamp": 1692730826.198254
     },
     {
         "Room": "MP 7107",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730055.8829086
+        "timestamp": 1692730827.3684473
     },
     {
         "Room": "MP 6310",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730057.096082
+        "timestamp": 1692730828.5072808
     },
     {
         "Room": "MP 6309",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730058.3188553
+        "timestamp": 1692730829.664063
     },
     {
         "Room": "MP 6255",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730059.4888043
+        "timestamp": 1692730830.832627
     },
     {
         "Room": "MP 6203",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730060.6235502
+        "timestamp": 1692730831.981952
     },
     {
         "Room": "MP 6107",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730061.794124
+        "timestamp": 1692730833.166919
     },
     {
         "Room": "MP 6003",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730062.9730399
+        "timestamp": 1692730834.3471608
     },
     {
         "Room": "MP 6002",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692730064.1442847
+        "timestamp": 1692730835.5167024
     },
     {
         "Room": "MP TR A",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "timestamp": 1692730085.1982126
+        "timestamp": 1692730856.583951
     },
     {
         "Room": "MP TR B",
         "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "timestamp": 1692730106.2418783
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730857.784094
+    },
+    {
+        "Room": "Conf 30W 09",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730858.939449
+    },
+    {
+        "Room": "Conf 30E 02",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730860.1310923
+    },
+    {
+        "Room": "Conf 30E 55",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730861.3428462
+    },
+    {
+        "Room": "Conf 29W 24",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730862.5084713
+    },
+    {
+        "Room": "Conf 29E 55",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692730863.6750598
     }
 ]
