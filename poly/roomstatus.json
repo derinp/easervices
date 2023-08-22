@@ -4,27 +4,111 @@
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692726383.5575862
+        "timestamp": 1692726773.1683657
     },
     {
         "Room": "The Met",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692726383.5575862
+        "timestamp": 1692726774.2424095
     },
     {
         "Room": "MC 10.52",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692726383.5575862
+        "timestamp": 1692726775.3231664
+    },
+    {
+        "Room": "Columbus Circle",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726776.3860915
+    },
+    {
+        "Room": "Moma",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726777.4301906
+    },
+    {
+        "Room": "MC 9.52",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "timestamp": 1692726798.4607384
+    },
+    {
+        "Room": "Bryant Park",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726799.587658
+    },
+    {
+        "Room": "Rock Center",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726800.6812313
+    },
+    {
+        "Room": "MC 8.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726801.808884
+    },
+    {
+        "Room": "Union Square",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726802.9051116
+    },
+    {
+        "Room": "High Line",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726804.0165918
+    },
+    {
+        "Room": "MC 7.85",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726805.1013227
     },
     {
         "Room": "Grammercy",
         "Mic": true,
         "Camera": true,
         "Controller": true,
-        "timestamp": 1692726383.5575862
+        "timestamp": 1692726806.1844375
+    },
+    {
+        "Room": "Wall St",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726807.2908409
+    },
+    {
+        "Room": "Libery",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726808.392686
+    },
+    {
+        "Room": "MC 6.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "timestamp": 1692726809.5254376
     }
 ]
