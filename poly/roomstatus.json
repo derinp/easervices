@@ -188,8 +188,8 @@
     {
         "Room": "MP TR B",
         "Mic": false,
-        "Camera": true,
-        "Controller": true
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Conf 30W 09",
