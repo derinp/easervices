@@ -1,114 +1,38 @@
 timestamp, Room, message
-1693177516.5177915, Conf 29E 55, room operational
-1693177516.5167913, Conf 29W 24, room operational
-1693177516.5157914, Conf 30E 55, room unreachable
-1693177516.5147915, Conf 30E 02, room operational
-1693177516.5137916, Conf 30W 09, room operational
-1693177516.5137916, MP TR B, room operational
-1693177516.5127914, MP TR A, room operational
-1693177516.5117915, MP 6002, room operational
-1693177516.5107915, MP 6003, room operational
-1693177516.5107915, MP 6107, room operational
-1693177516.5097914, MP 6203, room operational
-1693177516.5087912, MP 6255, room operational
-1693177516.5077913, MP 6309, room operational
-1693177516.5077913, MP 6310, room operational
-1693177516.5067914, MP 7107, room operational
-1693177516.5057912, MP 7201, room operational
-1693177516.5047913, MP 7202, room operational
-1693177516.5047913, MP 7310, room operational
-1693177516.5037913, MP 7366, room operational
-1693177516.5027914, MP 8309, room operational
-1693177516.5017915, MP 8322, room operational
-1693177516.5017915, MC 6.52, room operational
-1693177516.5007913, Liberty, room operational
-1693177516.4997916, Wall St, room unreachable
-1693177516.4987917, Grammercy, room operational
-1693177516.4977915, MC 7.85, room operational
-1693177516.4967918, High Line, room operational
-1693177516.495792, Union Square, room operational
-1693177516.494792, MC 8.52, room operational
-1693177516.4927924, Rock Center, room unreachable
-1693177516.4907932, Bryant Park, room operational
-1693177516.4877913, MC 9.52, room operational
-1693177516.4877913, Moma, room operational
-1693177516.4867916, Columbus Circle, room unreachable
-1693177516.4857912, MC 10.52, room unreachable
-1693177516.4847937, The Met, room operational
-1693177516.4797928, Apollo, room operational
-1693069392.7456174, Conf 29E 55, room operational
-1693069392.7436175, Conf 29W 24, room operational
-1693069392.7426093, Conf 30E 55, room unreachable
-1693069392.7416172, Conf 30E 02, room operational
-1693069392.740512, Conf 30W 09, room operational
-1693069392.738513, MP TR B, room operational
-1693069392.737505, MP TR A, room operational
-1693069392.7365131, MP 6002, room operational
-1693069392.7345138, MP 6003, room operational
-1693069392.7335093, MP 6107, room operational
-1693069392.7326088, MP 6203, room operational
-1693069392.7305133, MP 6255, room operational
-1693069392.7295134, MP 6309, room operational
-1693069392.7285051, MP 6310, room operational
-1693069392.7275133, MP 7107, room operational
-1693069392.7255137, MP 7201, room operational
-1693069392.724505, MP 7202, room operational
-1693069392.7235134, MP 7310, room operational
-1693069392.7215135, MP 7366, room operational
-1693069392.7205136, MP 8309, room operational
-1693069392.7195053, MP 8322, room operational
-1693069392.718495, MC 6.52, room operational
-1693069392.7167466, Liberty, room operational
-1693069392.7157655, Wall St, room unreachable
-1693069392.713755, Grammercy, room operational
-1693069392.7128053, MC 7.85, room operational
-1693069392.711755, High Line, room operational
-1693069392.7108018, Union Square, room operational
-1693069392.708807, MC 8.52, room operational
-1693069392.7077315, Rock Center, room unreachable
-1693069392.706727, Bryant Park, room operational
-1693069392.705684, MC 9.52, room operational
-1693069392.7037184, Moma, room operational
-1693069392.7026093, Columbus Circle, room unreachable
-1693069392.7016103, MC 10.52, room unreachable
-1693069392.6984885, The Met, room operational
-1693069392.6895802, Apollo, room operational
-1693068229.495424, Conf 29E 55, room operational
-1693068229.494424, Conf 29W 24, room operational
-1693068229.4924242, Conf 30E 55, room operational
-1693068229.4904318, Conf 30E 02, room operational
-1693068229.489432, Conf 30W 09, room operational
-1693068229.4874334, MP TR B, room operational
-1693068229.4854336, MP TR A, room operational
-1693068229.484432, MP 6002, room operational
-1693068229.482434, MP 6003, room operational
-1693068229.4804246, MP 6107, room operational
-1693068229.479434, MP 6203, room operational
-1693068229.4774325, MP 6255, room operational
-1693068229.4754262, MP 6309, room operational
-1693068229.4734266, MP 6310, room operational
-1693068229.471435, MP 7107, room operational
-1693068229.4694266, MP 7201, room operational
-1693068229.468426, MP 7202, room operational
-1693068229.4664261, MP 7310, room operational
-1693068229.4654262, MP 7366, room operational
-1693068229.463427, MP 8309, room operational
-1693068229.4624262, MP 8322, room operational
-1693068229.4604268, MC 6.52, room operational
-1693068229.4584255, Liberty, room operational
-1693068229.4574256, Wall St, room operational
-1693068229.4554255, Grammercy, room operational
-1693068229.4534254, MC 7.85, room operational
-1693068229.4524252, High Line, room operational
-1693068229.4504268, Union Square, room operational
-1693068229.4484265, MC 8.52, room operational
-1693068229.4474256, Rock Center, room unreachable
-1693068229.4454255, Bryant Park, room operational
-1693068229.444425, MC 9.52, room operational
-1693068229.4424732, Moma, room operational
-1693068229.4414263, Columbus Circle, room operational
-1693068229.4404252, MC 10.52, room operational
-1693068229.438425, The Met, room operational
-1693068229.4364252, Apollo, room operational
-
-
+19:35:37, Conf 29E 55, room operational
+19:35:37, Conf 29W 24, room operational
+19:35:37, Conf 30E 55, room unreachable
+19:35:37, Conf 30E 02, room operational
+19:35:37, Conf 30W 09, room operational
+19:35:37, MP TR B, room operational
+19:35:37, MP TR A, room operational
+19:35:37, MP 6002, room operational
+19:35:37, MP 6003, room operational
+19:35:37, MP 6107, room operational
+19:35:37, MP 6203, room operational
+19:35:37, MP 6255, room operational
+19:35:37, MP 6309, room operational
+19:35:37, MP 6310, room operational
+19:35:37, MP 7107, room operational
+19:35:37, MP 7201, room operational
+19:35:37, MP 7202, room operational
+19:35:37, MP 7310, room operational
+19:35:37, MP 7366, room operational
+19:35:37, MP 8309, room operational
+19:35:37, MP 8322, room operational
+19:35:37, MC 6.52, room operational
+19:35:37, Liberty, room operational
+19:35:37, Wall St, room unreachable
+19:35:37, Grammercy, room operational
+19:35:37, MC 7.85, room operational
+19:35:37, High Line, room operational
+19:35:37, Union Square, room operational
+19:35:37, MC 8.52, room operational
+19:35:37, Rock Center, room unreachable
+19:35:37, Bryant Park, room operational
+19:35:37, MC 9.52, room operational
+19:35:37, Moma, room operational
+19:35:37, Columbus Circle, room unreachable
+19:35:37, MC 10.52, room unreachable
+19:35:37, The Met, room operational
+19:35:37, Apollo, room operational
