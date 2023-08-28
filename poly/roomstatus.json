@@ -13,15 +13,15 @@
     },
     {
         "Room": "MC 10.52",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "Columbus Circle",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "Moma",
@@ -43,9 +43,9 @@
     },
     {
         "Room": "Rock Center",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "MC 8.52",
