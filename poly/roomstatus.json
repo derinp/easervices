@@ -140,7 +140,7 @@
     {
         "Room": "MP 6310",
         "Mic": true,
-        "Camera": true,
+        "Camera": false,
         "Controller": true
     },
     {
