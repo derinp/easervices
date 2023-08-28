@@ -1,38 +1,38 @@
 timestamp, Room, message
-2023-08-27 19:54:17, Conf 29E 55, room operational
-2023-08-27 19:54:17, Conf 29W 24, room operational
-2023-08-27 19:54:17, Conf 30E 55, room unreachable
-2023-08-27 19:54:17, Conf 30E 02, room operational
-2023-08-27 19:54:17, Conf 30W 09, room operational
-2023-08-27 19:54:17, MP TR B, room operational
-2023-08-27 19:54:17, MP TR A, room operational
-2023-08-27 19:54:17, MP 6002, room operational
-2023-08-27 19:54:17, MP 6003, room operational
-2023-08-27 19:54:17, MP 6107, room operational
-2023-08-27 19:54:17, MP 6203, room operational
-2023-08-27 19:54:17, MP 6255, room operational
-2023-08-27 19:54:17, MP 6309, room operational
-2023-08-27 19:54:17, MP 6310, room operational
-2023-08-27 19:54:17, MP 7107, room operational
-2023-08-27 19:54:17, MP 7201, room operational
-2023-08-27 19:54:17, MP 7202, room operational
-2023-08-27 19:54:17, MP 7310, room operational
-2023-08-27 19:54:17, MP 7366, room operational
-2023-08-27 19:54:17, MP 8309, room operational
-2023-08-27 19:54:17, MP 8322, room operational
-2023-08-27 19:54:17, MC 6.52, room operational
-2023-08-27 19:54:17, Liberty, room operational
-2023-08-27 19:54:17, Wall St, room unreachable
-2023-08-27 19:54:17, Grammercy, room operational
-2023-08-27 19:54:17, MC 7.85, room operational
-2023-08-27 19:54:17, High Line, room operational
-2023-08-27 19:54:17, Union Square, room operational
-2023-08-27 19:54:17, MC 8.52, room operational
-2023-08-27 19:54:17, Rock Center, room unreachable
-2023-08-27 19:54:17, Bryant Park, room operational
-2023-08-27 19:54:17, MC 9.52, room operational
-2023-08-27 19:54:17, Moma, room operational
-2023-08-27 19:54:17, Columbus Circle, room unreachable
-2023-08-27 19:54:17, MC 10.52, room unreachable
-2023-08-27 19:54:17, The Met, room operational
-2023-08-27 19:54:17, Apollo, room operational
+2023-08-27 20:23:36, Conf 29E 55, 1
+2023-08-27 20:23:36, Conf 29W 24, 1
+2023-08-27 20:23:36, Conf 30E 55, 0
+2023-08-27 20:23:36, Conf 30E 02, 1
+2023-08-27 20:23:36, Conf 30W 09, 1
+2023-08-27 20:23:36, MP TR B, 1
+2023-08-27 20:23:36, MP TR A, 1
+2023-08-27 20:23:36, MP 6002, 1
+2023-08-27 20:23:36, MP 6003, 1
+2023-08-27 20:23:36, MP 6107, 1
+2023-08-27 20:23:36, MP 6203, 1
+2023-08-27 20:23:36, MP 6255, 1
+2023-08-27 20:23:36, MP 6309, 1
+2023-08-27 20:23:36, MP 6310, 1
+2023-08-27 20:23:36, MP 7107, 1
+2023-08-27 20:23:36, MP 7201, 1
+2023-08-27 20:23:36, MP 7202, 1
+2023-08-27 20:23:36, MP 7310, 1
+2023-08-27 20:23:36, MP 7366, 1
+2023-08-27 20:23:36, MP 8309, 1
+2023-08-27 20:23:36, MP 8322, 1
+2023-08-27 20:23:36, MC 6.52, 1
+2023-08-27 20:23:36, Liberty, 1
+2023-08-27 20:23:36, Wall St, 0
+2023-08-27 20:23:36, Grammercy, 1
+2023-08-27 20:23:36, MC 7.85, 1
+2023-08-27 20:23:36, High Line, 1
+2023-08-27 20:23:36, Union Square, 1
+2023-08-27 20:23:36, MC 8.52, 1
+2023-08-27 20:23:36, Rock Center, 0
+2023-08-27 20:23:36, Bryant Park, 1
+2023-08-27 20:23:36, MC 9.52, 1
+2023-08-27 20:23:36, Moma, 1
+2023-08-27 20:23:36, Columbus Circle, 0
+2023-08-27 20:23:36, MC 10.52, 0
+2023-08-27 20:23:36, The Met, 1
+2023-08-27 20:23:36, Apollo, 1
