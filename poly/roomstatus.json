@@ -49,9 +49,9 @@
     },
     {
         "Room": "MC 8.52",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Union Square",
@@ -61,9 +61,9 @@
     },
     {
         "Room": "High Line",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "MC 7.85",
@@ -181,9 +181,9 @@
     },
     {
         "Room": "MP TR A",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "MP TR B",
