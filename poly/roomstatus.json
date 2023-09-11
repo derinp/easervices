@@ -13,9 +13,9 @@
     },
     {
         "Room": "MC 10.52",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Columbus Circle",
@@ -61,9 +61,9 @@
     },
     {
         "Room": "High Line",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "MC 7.85",
@@ -73,9 +73,9 @@
     },
     {
         "Room": "Grammercy",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Wall St",
