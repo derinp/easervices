@@ -193,9 +193,9 @@
     },
     {
         "Room": "Conf 30W 09",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "Conf 30E 02",
