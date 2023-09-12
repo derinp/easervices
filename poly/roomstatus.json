@@ -1,9 +1,9 @@
 [
     {
         "Room": "Apollo",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "The Met",
@@ -193,9 +193,9 @@
     },
     {
         "Room": "Conf 30W 09",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Conf 30E 02",
