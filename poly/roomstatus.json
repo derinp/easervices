@@ -220,5 +220,47 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "Newton",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
+    },
+    {
+        "Room": "Einstein",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
+    },
+    {
+        "Room": "War Room",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Darth Vader",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Iron Man",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Bond007",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "God Father",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     }
 ]
