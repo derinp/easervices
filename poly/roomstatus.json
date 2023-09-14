@@ -69,7 +69,7 @@
         "Room": "MC 7.85",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "Grammercy",
