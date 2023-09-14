@@ -66,12 +66,6 @@
         "Controller": true
     },
     {
-        "Room": "MC 7.85",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
         "Room": "Grammercy",
         "Mic": true,
         "Camera": true,
@@ -229,8 +223,8 @@
     },
     {
         "Room": "Einstein",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true
     },
     {
